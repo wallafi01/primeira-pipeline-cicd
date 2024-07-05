@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: wallafi/primeira-pipeline-cicd
+        image: wallafi/aula-primeira-pipeline
         ports:
         - containerPort: 5000
 --- 
