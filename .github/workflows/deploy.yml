@@ -38,4 +38,4 @@ jobs:
          with:
            manifests: ${{ inputs.manifests}}
            images: ${{ inputs.images}}   
-           namespace: ${{ vars.APP_NAMESPACE}}
+           namespace: ${{ vars.APP_NAMESPACE }}
